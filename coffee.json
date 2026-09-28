@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Caffè Latte",
+    "description": "Espresso dengan steamed milk dan lapisan foam yang lembut.",
+    "thumbnail": "caffe_latte_thumbnail.png",
+    "poster": "caffe_latte_poster.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Cappuccino",
+    "description": "Espresso dengan susu dan foam yang lembut.",
+    "thumbnail": "cappuccino_thumbnail.png",
+    "poster": "cappucxcino_poster.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Caffè Mocha",
+    "description": "Perpaduan espresso dan cokelat yang nikmat.",
+    "thumbnail": "caffe_mocha_thumbnail.png",
+    "poster": "caffe_mocha_poster.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Caramel Macchiato",
+    "description": "Espresso dengan susu dan rasa caramel.",
+    "thumbnail": "caramel_macchiato_thumbnail.png",
+    "poster": "caramel_macchiato_poster.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Vanilla Sweet Cream Cold Brew",
+    "description": "Cold brew dengan vanilla sweet cream.",
+    "thumbnail": "vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "vanilla_sweet_cream_cold_brew_poster.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cold Brew",
+    "description": "Kopi cold brew dengan rasa yang lembut dan menyegarkan.",
+    "thumbnail": "cold_brew_thumbnail.png",
+    "poster": "cold_brew_poster.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Mango Passion Frappuccino",
+    "description": "Minuman frappuccino dengan rasa mangga dan passion fruit.",
+    "thumbnail": "mango_passion_frappuccino_thumbnail.png",
+    "poster": "mango_passion_frappuccino_poster.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Raspberry Currant Frappuccino",
+    "description": "Frappuccino dengan perpaduan rasa raspberry dan currant.",
+    "thumbnail": "raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "raspberry_currant_frappuccino_poster.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Coffee Frappuccino",
+    "description": "Frappuccino dengan rasa kopi yang khas.",
+    "thumbnail": "coffee_frappuccino_thumbnail.png",
+    "poster": "coffee_frappuccino_poster.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Mocha Frappuccino",
+    "description": "Frappuccino dengan perpaduan kopi dan cokelat.",
+    "thumbnail": "mocha_frappuccino_thumbnail.png",
+    "poster": "mocha_frappuccino_poster.jpg"
+  }
+]
